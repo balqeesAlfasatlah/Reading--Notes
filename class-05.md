@@ -8,14 +8,14 @@ the site uses.
 
 ![img](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/html-images-df.jpg)
 
-**Adding Images :**
+**Adding Images**
 
 To add an image into the page 
 you need to use an img
 element. This is an empty 
 element (which means there is 
 no closing tag). It must carry the 
-following **two attributes :**
+following **two attributes**
 
 **src** : This tells the browser where 
 it can find the image file. This 
@@ -23,12 +23,12 @@ will usually be a relative URL
 pointing to an image on your 
 own site. 
 
-**alt :**
+**alt**
 This provides a text description 
 of the image which describes the 
 image if you cannot see it.
 
-**See the example below :**
+**See the example below**
 
 ![img](https://cdo-curriculum.s3.amazonaws.com/media/uploads/img_tag.png)
 
@@ -37,10 +37,10 @@ image if you cannot see it.
 Height and Width  are  two other attributes 
 that specify the image size:
 
-1. **height :** This specifies the height of the 
+1. **height** This specifies the height of the 
 image in pixels.
 
-2. **width :** This specifies the width of the 
+2. **width** This specifies the width of the 
 image in pixels.
 
 ![img](https://www.wikihow.com/images/thumb/b/be/Set-Image-Width-and-Height-Using-HTML-Step-3-Version-3.jpg/v4-460px-Set-Image-Width-and-Height-Using-HTML-Step-3-Version-3.jpg.webp)
@@ -71,14 +71,14 @@ The color property allows you
 to specify the color of text inside 
 an element. 
 
-**You can specify any color in CSS in one of three ways:**
+**You can specify any color in CSS in one of three ways**
 
 1. rgb values : These express colors in terms 
 of how much red, green and blue are used to make it up. 
-**example : rgb(100,100,90)**.
+**example  rgb(100,100,90)**.
 
  2. hex codes :These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign.
- **example : #ee3e80**.
+ **example  #ee3e80**.
 
 3. color names:
 There are 147 predefined color 
@@ -103,7 +103,7 @@ opacity).
 
 ![opacity](https://community.adobe.com/legacyfs/online/1775293_opecity.png)
 
-**See the decription below :**
+**See the decription below**
 
 ![opacity](https://odwebdesign.net/uploads/e/fb/17/adding-transparencies-and-gradients-with-css_3.png)
 
@@ -157,7 +157,7 @@ of a letter m.
 
 ![font-size](https://image.slidesharecdn.com/week12-font-size-141120053802-conversion-gate02/95/week-12-css-font-size-4-638.jpg?cb=1416461909)
 
-### Bold :font-weight
+### Bold : font-weight
 
 The font-weight property 
 allows you to create bold text. 
@@ -178,19 +178,19 @@ property commonly takes:
 # JPEG vs PNG vs GIF — which image format to use and when?
 
 
-**TL;DR :** Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
+**TLDR** Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
 
-**Compression :** Almost all forms of data that we see on the internet — text, image, video etc. — are compressed to reduce the size of data and ensure faster transmission. Choosing the correct format and compression is a major factor that determines image size.
+**Compression** Almost all forms of data that we see on the internet — text, image, video etc. — are compressed to reduce the size of data and ensure faster transmission. Choosing the correct format and compression is a major factor that determines image size.
 
-**JPEG :** 
+**JPEG** 
 
 Is a lossy compression specification that takes advantage of human perception. It can achieve compression ratios of 1:10 without any perceivable difference in quality. Beyond this, the compression artefacts become more prominent. Because JPEG compression works by averaging out colours of nearby pixels , JPEG images are best suited for photographs and paintings of natural scenes where the variations in colour and intensity are smooth. However, if an image contains text or lines, where a sharp contrast between adjacent pixels is desired to highlight the proper shape, this lossy compression technique does not yield good results.
 
 
-**PNG :**
+**PNG**
 
  Is a lossless image format using DEFLATE compression. No data is lost during compression and no compression artefacts are introduced in the image. For this reason, a PNG image would retain higher quality than an image than JPEG and would look a lot sharper, it would also occupy more space on the disk. This makes it unsuitable for storing or transferring high-resolution digital photographs but a great choice for images with text, logos and shapes with sharp edges.
 
- **GIF :**
+ **GIF**
  
   Is also a lossless image format that uses LZW compression algorithm. It was favoured over PNG for simple graphics in websites in its early days because the support of PNG was still growing. Given that PNG is now supported across all major devices and that PNG compression is about 5–25% better than GIF compression, GIF images are now mainly used only if the image contains animations.
