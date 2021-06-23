@@ -26,6 +26,7 @@ I am a student now in tech training in LTUC-Abdul Aziz Al Ghurair schhol of adva
 12. [class-12](https://balqeesalfasatlah.github.io/reading-notes201/class-12)
 13. [class-13](https://balqeesalfasatlah.github.io/reading-notes201/class-13)
 14. [class-14](https://balqeesalfasatlah.github.io/reading-notes201/class-14)
+14. [class-14](https://balqeesalfasatlah.github.io/reading-notes201/class-14b)
 15. [class-15](https://balqeesalfasatlah.github.io/reading-notes201/class-15)
 
 
