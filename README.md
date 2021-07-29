@@ -33,6 +33,7 @@ In this website you can found all my reading notes during my journey with ASAc, 
 12. [class-12](https://balqeesalfasatlah.github.io/reading-notes201/class-12)
 13. [class-13](https://balqeesalfasatlah.github.io/reading-notes201/class-13)
 14. [class-14](https://balqeesalfasatlah.github.io/reading-notes201/class-14)
+14. [class-14](https://balqeesalfasatlah.github.io/reading-notes201/class-14b)
 15. [class-15](https://balqeesalfasatlah.github.io/reading-notes201/class-15)
 ---
 
