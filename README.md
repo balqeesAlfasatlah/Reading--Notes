@@ -19,22 +19,22 @@ In this website you can found all my reading notes during my journey with ASAc, 
 ## Table of contents for Reading notes 201 :
 ---
 
-1. [class-01](https://balqeesalfasatlah.github.io/reading-notes201/class-01)
-2. [class-02](https://balqeesalfasatlah.github.io/reading-notes201/class-02)
-3. [class-03](https://balqeesalfasatlah.github.io/reading-notes201/class-03)
-4. [class-04](https://balqeesalfasatlah.github.io/reading-notes201/class-04)
-5. [class-05](https://balqeesalfasatlah.github.io/reading-notes201/class-05)
-6. [class-06](https://balqeesalfasatlah.github.io/reading-notes201/class-06)
-7. [class-07](https://balqeesalfasatlah.github.io/reading-notes201/class-07)
-8. [class-08](https://balqeesalfasatlah.github.io/reading-notes201/class-08)
-9. [class-09](https://balqeesalfasatlah.github.io/reading-notes201/class-09)
-10. [class-10](https://balqeesalfasatlah.github.io/reading-notes201/class-10)
-11. [class-11](https://balqeesalfasatlah.github.io/reading-notes201/class-11)
-12. [class-12](https://balqeesalfasatlah.github.io/reading-notes201/class-12)
-13. [class-13](https://balqeesalfasatlah.github.io/reading-notes201/class-13)
-14. [class-14](https://balqeesalfasatlah.github.io/reading-notes201/class-14)
-14. [class-14](https://balqeesalfasatlah.github.io/reading-notes201/class-14b)
-15. [class-15](https://balqeesalfasatlah.github.io/reading-notes201/class-15)
+1. [class-01](https://balqeesalfasatlah.github.io/Reading--Notes/class-01)
+2. [class-02](https://balqeesalfasatlah.github.io/Reading--Notes/class-02)
+3. [class-03](https://balqeesalfasatlah.github.io/Reading--Notes/class-03)
+4. [class-04](https://balqeesalfasatlah.github.io/Reading--Notes/class-04)
+5. [class-05](https://balqeesalfasatlah.github.io/Reading--Notes/class-05)
+6. [class-06](https://balqeesalfasatlah.github.io/Reading--Notes/class-06)
+7. [class-07](https://balqeesalfasatlah.github.io/Reading--Notes/class-07)
+8. [class-08](https://balqeesalfasatlah.github.io/Reading--Notes/class-08)
+9. [class-09](https://balqeesalfasatlah.github.io/Reading--Notes/class-09)
+10. [class-10](https://balqeesalfasatlah.github.io/Reading--Notes/class-10)
+11. [class-11](https://balqeesalfasatlah.github.io/Reading--Notes/class-11)
+12. [class-12](https://balqeesalfasatlah.github.io/Reading--Notes/class-12)
+13. [class-13](https://balqeesalfasatlah.github.io/Reading--Notes/class-13)
+14. [class-14](https://balqeesalfasatlah.github.io/Reading--Notes/class-14)
+14. [class-14](https://balqeesalfasatlah.github.io/Reading--Notes/class-14b)
+15. [class-15](https://balqeesalfasatlah.github.io/Reading--Notes/class-15)
 ---
 
 ## Table of contents for Reading notes 301 :
