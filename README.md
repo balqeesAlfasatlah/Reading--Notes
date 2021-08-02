@@ -19,7 +19,7 @@ In this website you can found all my reading notes during my journey with ASAc, 
 ## Table of contents for Reading notes 201 :
 ---
 
-1. [class-01](https://balqeesalfasatlah.github.io/Reading-notes201/class-01)
+1. [class-01](https://balqeesalfasatlah.github.io/reading-notes201/class-01)
 2. [class-02](https://balqeesalfasatlah.github.io/reading-notes201/class-02)
 3. [class-03](https://balqeesalfasatlah.github.io/reading-notes201/class-03)
 4. [class-04](https://balqeesalfasatlah.github.io/reading-notes201/class-04)
@@ -41,7 +41,7 @@ In this website you can found all my reading notes during my journey with ASAc, 
 ---
 
 1. [class-01](https://github.com/balqeesAlfasatlah/Reading--Notes/blob/main/Reading-notes301/class-01.md)
-2. [class-02](https://balqeesalfasatlah.github.io/reading-301/class-02)
+2. [class-02](https://github.com/balqeesAlfasatlah/Reading--Notes/blob/main/Reading-notes301/class-02.md)
 3. [class-03](https://balqeesalfasatlah.github.io/reading-301/class-03)
 4. [class-04](https://balqeesalfasatlah.github.io/reading-301/class-04)
 5. [class-05](https://balqeesalfasatlah.github.io/reading-301/class-05)
