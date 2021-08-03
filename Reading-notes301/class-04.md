@@ -24,5 +24,5 @@
 
  2. Rewrite the following statement using a ternary statemen:
 
-    x === y  ? 'Yes' : 'No';
+    x === y  ? console.log(yes) : console.log(no);
 
