@@ -33,8 +33,8 @@ to do a partial update
 
 + Yelp API Docs :
 
-**Did you get your API key ?** no
+**Did you get your API key ?** yes
 
 + The Movie DB API Docs :
 
-**Did you get your API key ?** no
+**Did you get your API key ?** yes
