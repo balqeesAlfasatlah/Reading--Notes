@@ -34,10 +34,27 @@ Structured Query Language
 ## What is a realational database?
 is a type of database that stores and provides access to data points that are related to one another.
 
+## What type of structure does a relational database work with?
+
+in general data  is structured as a tables 
+
 ## What is a ‘schema’?
 
 its structure described in a formal language supported by the database management system (DBMS).
 
+## What is a NoSQL database?
+database are primarily called as non-relational or distributed database and its document based, key-value pairs, graph databases or wide-column stores
+
+## Howo does it work?
+its store the data in documents 
+
+## What is inside of a Mongo database?
+collections have a set of documents
+## Which is more flexible - SQL or MongoDB? and why.
+MongoDB
+## What is the disadvantage of a NoSQL database?
+
+SQL databases are best fit for heavy duty transactional type applications, as it is more stable and promises the atomicity as well as integrity of the data. While you can use NoSQL for transactions purpose, it is still not comparable and sable enough in high load and for complex transactional applications.
 
  	 
  	 
